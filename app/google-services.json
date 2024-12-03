@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820648039833",
+    "project_id": "video-6900d",
+    "storage_bucket": "video-6900d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820648039833:android:232585d3e0423224342f08",
+        "android_client_info": {
+          "package_name": "com.example.video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQKmOWj9VqrpDPHedB6EYtiTZ77eLyxFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
